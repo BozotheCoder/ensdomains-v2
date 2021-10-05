@@ -158,6 +158,10 @@
     "link": "https://charged.fi/",
     "name": "Charged Particles"
   },
+  "chatrooms": {
+    "link": "https://chatrooms.eth.link/",
+    "name": "Chatrooms"
+  },
   "chilliswap": {
     "link": "https://exchange.chilliswap.org/",
     "name": "Chilliswap"
@@ -211,6 +215,10 @@
   "colorverse": {
     "link": "https://colorverse.io/",
     "name": "Colorverse"
+  },
+  "context": {
+    "link": "https://context.app/",
+    "name": "Context"
   },
   "covalent": {
     "link": "https://www.covalenthq.com/",
@@ -315,6 +323,10 @@
   "dnsxyz": {
     "link": "https://dns.xyz/",
     "name": "DNS.XYZ"
+  },
+  "doomcatrescue": {
+    "link": "https://www.doom.cat/",
+    "name": "Doom Cat Rescue"
   },
   "drip": {
     "link": "https://www.dripscore.com/",
@@ -485,6 +497,10 @@
     "link": "https://beta.floatify.net/",
     "name": "Floatify"
   },
+  "flooredapes": {
+    "link": "https://flooredape.io/",
+    "name": "flooredApe"
+  },
   "foundation": {
     "link": "https://foundation.app/",
     "name": "Foundation"
@@ -645,6 +661,10 @@
     "link": "https://www.inzhoop.com/",
     "name": "LETH"
   },
+  "litgateway": {
+    "link": "https://litgateway.com/",
+    "name": "Lit Gateway"
+  },
   "linkswap": {
     "link": "https://linkswap.app/",
     "name": "Linkswap"
@@ -660,6 +680,10 @@
   "loopring": {
     "link": "https://loopring.org/",
     "name": "Loopring"
+  },
+  "lootexchange": {
+    "link": "https://www.loot.exchange/",
+    "name": "Loot Exchange"
   },
   "luaswap": {
     "link": "https://app.luaswap.org/#/swap",
@@ -783,6 +807,10 @@
     "link": "https://nifty.ink/",
     "name": "Nifty Ink"
   },
+  "niftyorchard": {
+    "link": "https://niftyorchard.com/",
+    "name": "Nifty Orchard"
+  },
   "nonfungible": {
     "link": "https://nonfungible.com/",
     "name": "NonFungible"
@@ -790,6 +818,10 @@
   "nounsdao": {
     "link": "https://nouns.wtf/",
     "name": "Nouns DAO"
+  },
+  "oceanprotocol": {
+    "link": "https://oceanprotocol.com/",
+    "name": "Ocean Protocol"
   },
   "onemillionsdevs": {
     "link": "https://join.onemilliondevs.com/",
@@ -1051,6 +1083,14 @@
     "link": "https://thegraph.com/",
     "name": "The Graph",
     "featuredApp": 4
+  },
+  "thehistoricalrecord": {
+    "link": "https://thehistoricalrecord.com/",
+    "name": "The Historical Record"
+  },
+  "tiledao": {
+    "link": "https://tiles.art/",
+    "name": "Tiles"
   },
   "tokenallowancechecker": {
     "link": "https://tac.dappstar.io/",
